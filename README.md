@@ -4,13 +4,13 @@
 
 ### Front-End Developer | React & Next.js Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Frontend+Engineer;JavaScript+Expert;Building+Modern+Web+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Frontend+Engineer;JavaScript+Lover;Building+Modern+Web+Apps" />
 
 </div>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 🚀 About Me
 
@@ -37,15 +37,85 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/ahsan-dev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ahsan.dev98@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/923066712987">
-  <img src="https://img.shields.io/badge/WhatsApp-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏆 Academy Ball
+
+Modern sports & academy platform.
+
+🔗 https://academyball.com/
+
+</td>
+
+<td width="50%">
+
+### 🎨 EGWB
+
+Creative branding & business website.
+
+🔗 https://egwb.logoinnovators.com/
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Codestivers
+
+Software & development agency website.
+
+🔗 https://codestivers.com/
+
+</td>
+
+<td width="50%">
+
+### 🌍 Add Venture
+
+Social networking & event management platform.
+
+🔗 https://add-venture.co/
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -56,27 +126,27 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahsanali-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanali-dev&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanali-dev&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanali-dev&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanali-dev&theme=tokyo-night" />
+<img src="https://streak-stats.demolab.com?user=ahsanali-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanali-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -86,7 +156,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ahsanali-dev&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ahsanali-dev&style=for-the-badge&color=blueviolet" />
 
 </div>
 
@@ -94,6 +164,6 @@
 
 <div align="center">
 
-### ⭐ Let's Build Something Amazing Together ⭐
+### ⭐ Thanks for visiting my profile ⭐
 
 </div>

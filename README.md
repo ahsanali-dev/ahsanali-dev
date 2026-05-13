@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Ahsan Ali
 
-<!--
-**ahsanali-dev/ahsanali-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer | React & Next.js Developer
 
-Here are some ideas to get you started:
+- 🔭 Currently working on React & Next.js Projects
+- 🌱 Learning Advanced Backend Development
+- 💬 Ask me about React, Next.js, JavaScript
+- 📫 Contact: ahsan@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- React.js
+- Next.js
+- JavaScript
+- Redux Toolkit
+- Bootstrap
+- Tailwind CSS
+- SCSS
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Twitter
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)

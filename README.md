@@ -66,11 +66,9 @@
 
 ## 💻 Top Languages
 
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanali-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanali-dev&layout=compact&theme=radical" />
+</p>
 
 ---
 

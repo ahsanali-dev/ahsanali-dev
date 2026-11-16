@@ -234,13 +234,8 @@ Custom software, web & AI solutions company website.
 
 ---
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanali-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+💻 Most Used Languages
+<div align="center"> <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahsanali-dev&theme=tokyonight" width="48%" /> <img alt="Most commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahsanali-dev&theme=tokyonight" width="48%" /> </div>
 
 ---
 

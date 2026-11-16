@@ -4,21 +4,41 @@
 
 ### Front-End Developer | React & Next.js Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;Frontend+Engineer;JavaScript+Lover;Building+Modern+Web+Apps" />
+<img alt="Typing animation: React Developer, Next.js Developer, MERN Stack Developer" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;MERN+Stack+Developer;Frontend+Engineer;Building+Modern+Web+Apps" />
 
 </div>
 
 ---
 
-<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" width="320" alt="Programmer animation" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **React & Next.js Projects**
-- 🌱 Learning **Advanced Backend Development**
+- 💼 Front-End Developer at **The Digi Tech Resources Group**, Lahore
+- 🔭 Building production-grade web apps with **React, Next.js & Redux Toolkit**
+- 🌱 Strengthening my backend skills with **Node.js, Express.js & MongoDB**
+- 🎓 Master of Computer Science, Islamia University of Bahawalpur | **MERN Stack certified**
 - 💬 Ask me about **React, Next.js, JavaScript**
 - 📫 Email: **ahsan.dev98@gmail.com**
 - ⚡ Passionate about clean UI/UX & modern web apps
+
+---
+
+## 📝 Summary
+
+Front-End Developer with over 2 years of combined professional and freelance experience delivering production-grade web platforms using **React.js, Next.js, and Redux Toolkit**, along with backend integration using **Node.js, Express.js, MongoDB, and REST APIs**.
+
+I turn complex Figma/XD designs into pixel-accurate, responsive interfaces and integrate real-time features (**Socket.io**) and secure payments (**Stripe**) into full-scale platforms. I care about clean, maintainable code, front-end performance, and working closely with design and backend teams to ship scalable digital products.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Front-End Developer | The Digi Tech Resources Group, Lahore | Dec 2024 – Present |
+| Freelance Front-End Developer | Self-Employed / Remote | Feb 2023 – Nov 2024 |
+| Front-End Developer | Shahraan Tech, Lahore | Jul 2022 – Feb 2023 |
 
 ---
 
@@ -26,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,bootstrap,tailwind,sass,html,css,git,github,vscode,firebase" />
+<img alt="Tech stack icons" src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,nodejs,express,mongodb,bootstrap,tailwind,sass,html,css,git,github,vscode,firebase" />
 
 </div>
 
@@ -36,16 +56,16 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ahsan-dev" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/ahsan-dev">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ahsan.dev98@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/923066712987">
-<img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
@@ -61,21 +81,21 @@
 
 <td width="50%">
 
-### 🏆 Academy Ball
+### 🌍 Add Venture
 
-Modern sports & academy platform.
+Social networking, marketplace & events platform.
 
-🔗 https://academyball.com/
+🔗 [add-venture.co](https://add-venture.co/)
 
 </td>
 
 <td width="50%">
 
-### 🎨 EGWB
+### 🚗 Carferno
 
-Creative branding & business website.
+On-demand vehicle repair platform with real-time tracking, Google Maps & Stripe.
 
-🔗 https://egwb.logoinnovators.com/
+🔗 [app.carferno.com](https://app.carferno.com/)
 
 </td>
 
@@ -85,21 +105,93 @@ Creative branding & business website.
 
 <td width="50%">
 
-### 💻 Codestivers
+### 🧾 TaxSync
 
-Software & development agency website.
+FBR e-invoicing middleware portal built with Next.js (staging).
 
-🔗 https://codestivers.com/
+🔗 [taxsync-stagging.vercel.app](https://taxsync-stagging.vercel.app/)
 
 </td>
 
 <td width="50%">
 
-### 🌍 Add Venture
+### 📸 Team PicPros Booking
 
-Social networking & event management platform.
+Real estate media booking portal with Admin, Photographer & Client dashboards.
 
-🔗 https://add-venture.co/
+🔗 [booking.teampicpros.com](https://booking.teampicpros.com/login)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🩺 Wellness Workdays Portal
+
+HIPAA-compliant client portal for a workplace wellness provider.
+
+🔗 [portal.wellnessworkdays.com](https://portal.wellnessworkdays.com/)
+
+</td>
+
+<td width="50%">
+
+### 🏆 Academy Ball
+
+Role-based baseball league platform with scores, standings, Stripe & Socket.io.
+
+🔗 [academyball.com](https://academyball.com/)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚽ Reccity Sports
+
+Sports community platform: find teams, book games, join tournaments.
+
+🔗 [reccitysports.com](https://reccitysports.com/)
+
+</td>
+
+<td width="50%">
+
+### ⌚ Marcellus Watch Company
+
+Luxury watch & fine jewelry website.
+
+🔗 [marcellus-co.com](https://marcellus-co.com/)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎓 EGWB
+
+Education, Gaming, Wellness & Blockchain digital learning ecosystem.
+
+🔗 [egwb.logoinnovators.com](https://egwb.logoinnovators.com/)
+
+</td>
+
+<td width="50%">
+
+### 💻 Codestivers
+
+Custom software, web & AI solutions company website.
+
+🔗 [codestivers.com](https://codestivers.com/)
 
 </td>
 
@@ -114,8 +206,8 @@ Social networking & event management platform.
 
 <div align="center">
 
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://ahsan-ali-frontend.vercel.app">
+<img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -126,7 +218,7 @@ Social networking & event management platform.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanali-dev&theme=tokyonight" />
+<img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanali-dev&theme=tokyonight" />
 
 </div>
 
@@ -136,7 +228,7 @@ Social networking & event management platform.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ahsanali-dev&theme=tokyonight&hide_border=true" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ahsanali-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -146,7 +238,7 @@ Social networking & event management platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanali-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanali-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -156,7 +248,7 @@ Social networking & event management platform.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ahsanali-dev&style=for-the-badge&color=blueviolet" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=ahsanali-dev&style=for-the-badge&color=blueviolet" />
 
 </div>
 

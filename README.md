@@ -10,6 +10,14 @@
 
 ---
 
+## 📝 Summary
+
+MERN Stack Developer (**MongoDB, Express.js, React.js, Node.js**) with over 3 years of combined professional and freelance experience building production-grade web applications. MERN Stack certified, with deep strength in **React.js, Next.js, and Redux Toolkit** on the front end.
+
+I integrate **REST APIs**, real-time features (**Socket.io**), and secure payments (**Stripe**) into full-scale platforms, and turn complex Figma/XD designs into pixel-accurate, responsive interfaces. I care about clean, maintainable code and working closely with design and backend teams to ship scalable digital products.
+
+---
+
 <img align="right" width="320" alt="Programmer animation" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 🚀 About Me
@@ -21,14 +29,6 @@
 - 💬 Ask me about **MERN, React, Node.js, JavaScript**
 - 📫 Email: **ahsan.dev98@gmail.com**
 - ⚡ Passionate about clean UI/UX & modern web apps
-
----
-
-## 📝 Summary
-
-MERN Stack Developer (**MongoDB, Express.js, React.js, Node.js**) with over 2 years of combined professional and freelance experience building production-grade web applications. MERN Stack certified, with deep strength in **React.js, Next.js, and Redux Toolkit** on the front end.
-
-I integrate **REST APIs**, real-time features (**Socket.io**), and secure payments (**Stripe**) into full-scale platforms, and turn complex Figma/XD designs into pixel-accurate, responsive interfaces. I care about clean, maintainable code and working closely with design and backend teams to ship scalable digital products.
 
 ---
 

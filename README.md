@@ -10,6 +10,14 @@
 
 ---
 
+## 📝 Summary
+
+Front-End Developer with over 3 years of combined professional and freelance experience delivering production-grade web platforms using **React.js, Next.js, and Redux Toolkit**, along with backend integration using **Node.js, Express.js, MongoDB, and REST APIs**.
+
+I turn complex Figma/XD designs into pixel-accurate, responsive interfaces and integrate real-time features (**Socket.io**) and secure payments (**Stripe**) into full-scale platforms. I care about clean, maintainable code, front-end performance, and working closely with design and backend teams to ship scalable digital products.
+
+---
+
 <img align="right" width="320" alt="Programmer animation" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 🚀 About Me
@@ -21,14 +29,6 @@
 - 💬 Ask me about **React, Next.js, JavaScript**
 - 📫 Email: **ahsan.dev98@gmail.com**
 - ⚡ Passionate about clean UI/UX & modern web apps
-
----
-
-## 📝 Summary
-
-Front-End Developer with over 2 years of combined professional and freelance experience delivering production-grade web platforms using **React.js, Next.js, and Redux Toolkit**, along with backend integration using **Node.js, Express.js, MongoDB, and REST APIs**.
-
-I turn complex Figma/XD designs into pixel-accurate, responsive interfaces and integrate real-time features (**Socket.io**) and secure payments (**Stripe**) into full-scale platforms. I care about clean, maintainable code, front-end performance, and working closely with design and backend teams to ship scalable digital products.
 
 ---
 

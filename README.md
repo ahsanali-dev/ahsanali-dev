@@ -2,19 +2,11 @@
 
 # 👋 Hi, I'm Ahsan Ali
 
-### Front-End Developer | React & Next.js Developer
+### MERN Stack Developer | React.js, Node.js, Express.js & MongoDB
 
-<img alt="Typing animation: React Developer, Next.js Developer, MERN Stack Developer" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;MERN+Stack+Developer;Frontend+Engineer;Building+Modern+Web+Apps" />
+<img alt="Typing animation: MERN Stack Developer, React Developer, Node.js, Express.js and MongoDB" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+Developer;Node.js+%2B+Express.js+%2B+MongoDB;Next.js+Developer;Building+Modern+Web+Apps" />
 
 </div>
-
----
-
-## 📝 Summary
-
-Front-End Developer with over 3 years of combined professional and freelance experience delivering production-grade web platforms using **React.js, Next.js, and Redux Toolkit**, along with backend integration using **Node.js, Express.js, MongoDB, and REST APIs**.
-
-I turn complex Figma/XD designs into pixel-accurate, responsive interfaces and integrate real-time features (**Socket.io**) and secure payments (**Stripe**) into full-scale platforms. I care about clean, maintainable code, front-end performance, and working closely with design and backend teams to ship scalable digital products.
 
 ---
 
@@ -23,12 +15,20 @@ I turn complex Figma/XD designs into pixel-accurate, responsive interfaces and i
 ## 🚀 About Me
 
 - 💼 Front-End Developer at **The Digi Tech Resources Group**, Lahore
-- 🔭 Building production-grade web apps with **React, Next.js & Redux Toolkit**
-- 🌱 Strengthening my backend skills with **Node.js, Express.js & MongoDB**
+- 🔭 Building full-stack web apps with the **MERN stack (MongoDB, Express.js, React, Node.js)**
+- 🌱 Deepening my backend skills with **Node.js, Express.js & MongoDB**, alongside **Next.js & Redux Toolkit**
 - 🎓 Master of Computer Science, Islamia University of Bahawalpur | **MERN Stack certified**
-- 💬 Ask me about **React, Next.js, JavaScript**
+- 💬 Ask me about **MERN, React, Node.js, JavaScript**
 - 📫 Email: **ahsan.dev98@gmail.com**
 - ⚡ Passionate about clean UI/UX & modern web apps
+
+---
+
+## 📝 Summary
+
+MERN Stack Developer (**MongoDB, Express.js, React.js, Node.js**) with over 2 years of combined professional and freelance experience building production-grade web applications. MERN Stack certified, with deep strength in **React.js, Next.js, and Redux Toolkit** on the front end.
+
+I integrate **REST APIs**, real-time features (**Socket.io**), and secure payments (**Stripe**) into full-scale platforms, and turn complex Figma/XD designs into pixel-accurate, responsive interfaces. I care about clean, maintainable code and working closely with design and backend teams to ship scalable digital products.
 
 ---
 
@@ -46,7 +46,7 @@ I turn complex Figma/XD designs into pixel-accurate, responsive interfaces and i
 
 <div align="center">
 
-<img alt="Tech stack icons" src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,nodejs,express,mongodb,bootstrap,tailwind,sass,html,css,git,github,vscode,firebase" />
+<img alt="Tech stack icons" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,js,ts,redux,bootstrap,tailwind,sass,html,css,git,github,vscode,firebase" />
 
 </div>
 
@@ -234,8 +234,14 @@ Custom software, web & AI solutions company website.
 
 ---
 
-💻 Most Used Languages
-<div align="center"> <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahsanali-dev&theme=tokyonight" width="48%" /> <img alt="Most commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahsanali-dev&theme=tokyonight" width="48%" /> </div>
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahsanali-dev&theme=tokyonight" width="48%" />
+<img alt="Most commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahsanali-dev&theme=tokyonight" width="48%" />
+
+</div>
 
 ---
 
